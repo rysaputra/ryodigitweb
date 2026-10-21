@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="400" height="250">
+  <rect width="400" height="250" fill="#F2EEE6"/>
+  <rect x="0" y="0" width="400" height="40" fill="#CADFDB"/>
+  <rect x="15" y="10" width="60" height="20" rx="4" fill="#34699F"/>
+  <rect x="300" y="10" width="40" height="20" rx="4" fill="#66A4BD"/>
+  <rect x="350" y="10" width="40" height="20" rx="4" fill="#66A4BD"/>
+  <rect x="20" y="60" width="360" height="140" rx="8" fill="#CADFDB"/>
+  <rect x="40" y="80" width="100" height="100" rx="8" fill="#66A4BD" opacity="0.5"/>
+  <rect x="160" y="80" width="200" height="12" rx="4" fill="#34699F" opacity="0.6"/>
+  <rect x="160" y="100" width="160" height="12" rx="4" fill="#34699F" opacity="0.4"/>
+  <rect x="160" y="120" width="120" height="12" rx="4" fill="#34699F" opacity="0.3"/>
+  <rect x="20" y="220" width="80" height="20" rx="10" fill="#34699F"/>
+  <rect x="110" y="220" width="80" height="20" rx="10" fill="#66A4BD"/>
+  <text x="200" y="245" font-family="Sora, sans-serif" font-size="11" fill="#34699F" text-anchor="middle" opacity="0.5">Demo Project — Ryo Digital</text>
+</svg>

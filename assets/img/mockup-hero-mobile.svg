@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 568" width="320" height="568">
+  <rect width="320" height="568" fill="#F2EEE6"/>
+  <rect x="0" y="0" width="320" height="60" fill="#34699F"/>
+  <rect x="20" y="20" width="80" height="20" rx="4" fill="#F2EEE6"/>
+  <rect x="280" y="25" width="20" height="2" rx="1" fill="#F2EEE6"/>
+  <rect x="280" y="32" width="20" height="2" rx="1" fill="#F2EEE6"/>
+  <rect x="280" y="39" width="20" height="2" rx="1" fill="#F2EEE6"/>
+  <rect x="20" y="80" width="280" height="20" rx="4" fill="#34699F"/>
+  <rect x="20" y="110" width="200" height="12" rx="4" fill="#66A4BD" opacity="0.6"/>
+  <rect x="20" y="130" width="150" height="12" rx="4" fill="#66A4BD" opacity="0.4"/>
+  <rect x="20" y="170" width="280" height="120" rx="8" fill="#CADFDB"/>
+  <rect x="20" y="310" width="130" height="36" rx="18" fill="#34699F"/>
+  <rect x="160" y="310" width="130" height="36" rx="18" fill="none" stroke="#34699F" stroke-width="2"/>
+  <rect x="20" y="370" width="280" height="60" rx="8" fill="#CADFDB" opacity="0.5"/>
+  <rect x="20" y="450" width="280" height="80" rx="8" fill="#66A4BD" opacity="0.3"/>
+  <text x="160" y="550" font-family="Sora, sans-serif" font-size="12" fill="#34699F" text-anchor="middle" opacity="0.5">Mobile Preview</text>
+</svg>

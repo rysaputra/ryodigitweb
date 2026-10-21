@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#34699F"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grad)"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#34699F;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#66A4BD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#CADFDB;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="600" y="280" font-family="Sora, sans-serif" font-size="72" font-weight="700" fill="#F2EEE6" text-anchor="middle">Ryo Digital</text>
+  <text x="600" y="360" font-family="Inter, sans-serif" font-size="32" fill="#F2EEE6" text-anchor="middle" opacity="0.9">Studio Kreatif Digital &amp; Pengembangan Web</text>
+  <text x="600" y="420" font-family="Inter, sans-serif" font-size="24" fill="#F2EEE6" text-anchor="middle" opacity="0.7">Website · Landing Page · Katalog Digital · UI/UX · Aset Kreatif</text>
+</svg>
